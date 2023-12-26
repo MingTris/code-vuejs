@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "category": "Củ, sạc",
+    "name": "Cáp Type C - Lightning Apple 1m",
+    "imageUrl": "/images/products/capsacip.jpeg",
+    "price": 21,
+    "description": "Cáp Apple USB-C to Lightning 1M được hoàn thiện từ chất liệu cao su dẻo mềm và mịn. Bạn có thể test bằng cách uốn cong hay gãy dập cáp sạc nhiều lần. Nhờ đó người dùng có thể thoải mái mang theo mà không sợ bị hư hỏng."
+  },
+  {
+    "id": 2,
+    "category": "Củ, sạc",
+    "name": "Củ sạc Samsung Type-C 45W",
+    "imageUrl": "/images/products/cusacsamsung.jpeg",
+    "price": 41,
+    "description": "Củ sạc nhanh Type C Samsung T4510 sở hữu thiết kế khoa học, chỉ chu và được chế tạo tỉ mỉ xứng tầm đẳng cấp. Màu sắc trang bị là một màu đen huyền bí, tạo cảm giác sạch sẽ trang trọng và bí ẩn. Củ sạc có dây khá chuẩn, độ dài hợp lý 1.8m để tiện lợi hơn khi cắm sạc thiết bị với khu vực nguồn xa. Đồng thời không quá dài, chống rối khi cuộn sạc lại cất."
+  },
+  {
+    "id": 3,
+    "category": "Củ, sạc",
+    "name": "Sạc nhanh 20W Apple MHJE3ZA",
+    "imageUrl": "/images/products/sacnhanhip.jpeg",
+    "price": 21,
+    "description": "Nhanh chóng, tiết kiệm tối đa thời gian là những gì mà người dùng iPhone mong đợi ở chiếc sạc pin của mình. Để có thể làm được điều đó thì việc sử dụng củ sạc nhanh Apple iPhone 20W Type-C PD MHJE3ZA chính hãng là điều cần thiết mà bạn không nên bỏ qua."
+  },
+  {
+    "id": 4,
+    "category": "Tai nghe",
+    "name": "Tai nghe Wireless Marshall Minor 3",
+    "imageUrl": "/images/products/tainghebl.jpeg",
+    "price": 115,
+    "description": "Thời lượng pin tốt, có thể hoạt động đến 5 giờ liên tục và 25 giờ khi kèm hộp sạc. Màng loa 12mm được tuỳ chỉnh mang đến chất lượng âm thanh rõ ràng, sắc nét. Trang bị kháng nước chuẩn IPX4 giúp bảo vệ tai nghe khỏi mồi hôi và nước bắn. Tích hợp cảm biến tiệm cận có khả năng tự động dừng tắt nhạc khi tháo tai nghe."
+  },
+  {
+    "id": 5,
+    "category": "Tai nghe",
+    "name": "Tai nghe Wireless Samsung Galaxy Buds2 Pro",
+    "imageUrl": "/images/products/tainghesamsung.jpeg",
+    "price": 165,
+    "description": "Thiết kế chuẩn công thái học phong cách, ôm khít vào tai, hạn chế rơi khi di chuyển. Đắm chìm trong không gian âm nhạc riêng với tính năng chống ồn ANC và 360 Audio. Không ngại mưa rơi hay tập luyện cường độ cao khi sở hữu chuẩn kháng nước IPX7. Đạt chuẩn Bluetooth 5.3 mới nhất cho kết nối ổn định, nhận diện thiết bị nhanh chóng."
+  },
+  {
+    "id": 6,
+    "category": "Tai nghe",
+    "name": "Tai nghe Apple EarPods Lightning (MMTN2)",
+    "imageUrl": "/images/products/tainghedayip.jpeg",
+    "price": 450,
+    "description": "Tai nghe Earpods với Lightning Connection được thiết kế với màu trắng trang nhã cho bạn thể hiện phong cách trẻ trung, năng động, sành điệu tạo cảm giác thời thượng cho chính người sử dụng. Hai đầu tai được thiết kế giống như hai hạt đậu, ôm gọn trong tai giúp tai nghe Apple cách âm tốt nhất cho bạn tận hưởng trọn vẹn từng khoảnh khắc âm nhạc."
+  },
+  {
+    "id": 7,
+    "category": "Sạc dự phòng",
+    "name": "Pin sạc dự phòng Samsung EB P5300",
+    "imageUrl": "/images/products/sacduphong1.jpeg",
+    "price": 44,
+    "description": "Chất liệu nhựa bền bỉ giúp hạn chế hư hỏng khi va đập. 1 cổng USB và 2 cổng Type-C phù hợp nhiều dòng máy. Dung lượng pin 20000mAh hỗ trợ sạc đầy pin nhiều lần. Công suất sạc 25W giúp rút ngắn thời gian sạc đầy pin."
+  },
+  {
+    "id": 8,
+    "category": "Sạc dự phòng",
+    "name": "Pin sạc dự phòng Aukey PB-N83S 20W",
+    "imageUrl": "/images/products/sacduphong2.jpeg",
+    "price": 21,
+    "description": "Hỗ trợ công nghệ sạc nhanh Power Delivery và Quick Charge 3 giúp sạc nhanh cho đa số các thiết bị. Thiết kế nhỏ gọn và nhẹ, dễ dàng cầm nắm và mang theo. Trang bị hai cổng sạc USB-A và Type-C hỗ trợ sạc đồng thời hai thiết bị. Tích hợp công nghệ an toàn chống quá nhiệt, ngắt mạch, sạc tràn, sạc ngược."
+  },
+  {
+    "id": 9,
+    "category": "Sạc dự phòng",
+    "name": "Pin sạc dự phòng Mophie Snap Juice Pack",
+    "imageUrl": "/images/products/sacduphong3.jpeg",
+    "price": 29,
+    "description": "Công nghệ sạc không dây chuẩn Qi đảm bảo an toàn cho hầu hết các thiết bị. Vòng từ tính Snap Adapter giúp bám chặt vào các thiết bị hỗ trợ sạc không dây. Thiết kế nhỏ gọn, chất liệu vỏ ngoài từ vải Fabric hạn chế bám vân tay, bụi bẩn. Cổng đầu ra USB-C có công suất lên tới 12W giúp tiết kiệm tối đa thời gian sạc."
+  },
+  {
+    "id": 10,
+    "category": "Ốp lưng",
+    "name": "Ốp lưng iPhone 15 Pro Zagg",
+    "imageUrl": "/images/products/opdt1.jpeg",
+    "price": 23,
+    "description": "Ốp lưng iPhone 15 Pro Zagg Crystal sở hữu khả năng chống sốc đỉnh cao lên đến 4m, giúp bảo vệ toàn diện iPhone 15 Pro của bạn trong suốt quá trình sử dụng. Tạo hình bên ngoài của ốp iPhone 15 Pro này khá nổi bật với thiết kế trong suốt, giúp giữ nguyên vẻ đẹp tự nhiên của máy. Đồng thời, thế hệ ốp lưng Zagg Crystal này còn mang lại nhiều sự tiện lợi trong quá trình nạp pin khi có thể tương thích với Magsafe và hầu hết các dòng sạc không dây khác."
+  },
+  {
+    "id": 11,
+    "category": "Ốp lưng",
+    "name": "Bao da kèm S Pen Samsung Galaxy Z Fold5",
+    "imageUrl": "/images/products/opdt2.jpeg",
+    "price": 80,
+    "description": "Bao da Samsung Galaxy Z Fold 5 kèm bút S-Pen là sản phẩm chính hãng đến từ Samsung nên kích thước hoàn toàn vừa vặn với điện thoại. Sản phẩm bao da Samsung Z Fold5 có thêm khe chứa S Pen nên mang đến nhiều tiện ích cho người dùng."
+  },
+  {
+    "id": 12,
+    "category": "Ốp lưng",
+    "name": "Ốp lưng iPhone 15 Pro Max UAG Monarch",
+    "imageUrl": "/images/products/opdt3.jpeg",
+    "price": 600,
+    "description": "Ốp lưng iPhone 15 Pro Max UAG Monarch with Magsafe là ốp cao cấp và cứng cấp nhất mà bạn có thể tìm thấy của UAG. Với cấu trúc 5 lớp cùng các chất liệu bền bỉ được sử dụng trong quân đội, đây chắc chắn sẽ là mẫu ốp lưng iPhone 15 Series đáng để bạn lựa chọn và trang bị để bảo vệ cho chiếc điện thoại của mình."
+  }
+]
